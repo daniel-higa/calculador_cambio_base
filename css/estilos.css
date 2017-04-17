@@ -1,0 +1,207 @@
+html{
+
+	width:100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	overflow:hidden; //Que no aparezcan las barras de scroll
+}
+
+body{
+
+	background:black;
+	width:100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	text-align:center;
+	overflow:hidden;
+}
+
+.fila{
+
+	width:100%;
+	height:12%;
+	margin:0px;
+	padding:0px;
+}
+	
+
+.boton{
+
+	width:100%;
+	height:100%;
+	margin:0px;
+	padding:0px;
+	user-select:none;
+	outline:none;
+	border:2px solid white;
+}
+
+.cBotonSup{
+	
+	width:25%;
+	height:100%;
+	float:left;
+	background:black;
+}
+
+.cBotonInf{
+	
+	width:33.33%;
+	height:100%;
+	float:left;
+	background:#002850;
+}
+
+#fila2{
+	!height:16%;
+	overflow:hidden;
+	position:relative;
+}
+
+#cbDEC{
+	background:#80C0FF;
+}
+
+#cEntrada{
+	position:relative;
+	height:100%;
+	width:100%;
+	float:left;
+	background:#001830;
+	overflow:hidden;
+	border:2px solid white;
+}
+
+#cbBorrar{
+	height:100%;
+	width:33.33%;
+	float:left;
+	background:#FF4000;
+}
+
+#Entrada{
+	position:absolute;
+	width:95%;
+	padding:0px;
+	left:0px;
+	right:0px;
+	margin:auto;
+	font:bold 30px "Courier New", Courier, monospace;
+	color:#30D0FF;
+	text-shadow:1px 1px #202020;
+}
+
+#bBIN{
+	background:url('../img/bin.png') center no-repeat;
+	background-size:contain;		
+}
+
+#bOCT{
+	background:url('../img/oct.png') center no-repeat;
+	background-size:contain;		
+}
+
+#bDEC{
+	background:url('../img/dec.png') center no-repeat;
+	background-size:contain;		
+}
+
+#bHEX{
+	background:url('../img/hex.png') center no-repeat;
+	background-size:contain;		
+}
+
+#BD{
+	background:url('../img/D.png') center no-repeat;
+	background-size:contain;		
+}
+
+#BE{
+	background:url('../img/E.png') center no-repeat;
+	background-size:contain;		
+}
+
+#BF{
+	background:url('../img/F.png') center no-repeat;
+	background-size:contain;		
+}
+
+#BA{
+	background:url('../img/A.png') center no-repeat;
+	background-size:contain;		
+}
+
+#BB{
+	background:url('../img/B.png') center no-repeat;
+	background-size:contain;		
+}
+
+#BC{
+	background:url('../img/C.png') center no-repeat;
+	background-size:contain;		
+}
+
+#B7{
+	background:url('../img/7.png') center no-repeat;
+	background-size:contain;		
+}
+
+#B8{
+	background:url('../img/8.png') center no-repeat;
+	background-size:contain;		
+}
+
+#B9{
+	background:url('../img/9.png') center no-repeat;
+	background-size:contain;		
+}
+
+#B4{
+	background:url('../img/4.png') center no-repeat;
+	background-size:contain;		
+}
+
+#B5{
+	background:url('../img/5.png') center no-repeat;
+	background-size:contain;		
+}
+
+#B6{
+	background:url('../img/6.png') center no-repeat;
+	background-size:contain;		
+}
+
+#B1{
+	background:url('../img/1.png') center no-repeat;
+	background-size:contain;		
+}
+
+#B2{
+	background:url('../img/2.png') center no-repeat;
+	background-size:contain;		
+}
+
+#B3{
+	background:url('../img/3.png') center no-repeat;
+	background-size:contain;		
+}
+
+#BPunto{
+	background:url('../img/Punto.png') center no-repeat;
+	background-size:contain;		
+}
+
+#B0{
+	background:url('../img/0.png') center no-repeat;
+	background-size:contain;		
+}
+
+#BBorrar{
+	background:url('../img/Borrar.png') center no-repeat;
+	background-size:contain;		
+}
+
+
+
